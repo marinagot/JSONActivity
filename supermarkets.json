@@ -1,0 +1,169 @@
+{
+    "supermercados": [
+        {
+            "nombre": "Mercadona",
+            "direccion": {
+                "calle": "Ctra. de la Barrosa",
+                "numero": "s/n",
+                "codigoPostal": "11130",
+                "poblacion": "Chiclana de la Frontera",
+                "provincia": "Cádiz"
+            },
+            "geolocalizacion": [
+                "36°24'01.6 N",
+                "6°10'04.4 W"
+            ],
+            "productos": [
+                {
+                    "nombre": "Leche desnatada",
+                    "enOferta": false,
+                    "descripcionOferta": null,
+                    "periodoVigencia": null,
+                    "consumoHabitualSinOferta": true,
+                    "unidades": 2,
+                    "pesoNeto": 1,
+                    "unidadMedida": "l",
+                    "precio": 1.14,
+                    "unidadesPrecio": "€"
+                },
+                {
+                    "nombre": "Tortilla de patatas",
+                    "enOferta": true,
+                    "descripcionOferta": "Antes 2.5 €, ahora 2.15 €",
+                    "periodoVigencia": [
+                        "01/04/2022",
+                        "11/04/2022"
+                    ],
+                    "consumoHabitualSinOferta": false,
+                    "unidades": 1,
+                    "pesoNeto": 600,
+                    "unidadMedida": "g",
+                    "precio": 2.15,
+                    "unidadesPrecio": "€"
+                },
+                {
+                    "nombre": "Naranjas de zumo",
+                    "enOferta": false,
+                    "descripcionOferta": null,
+                    "periodoVigencia": null,
+                    "consumoHabitualSinOferta": false,
+                    "unidades": 1,
+                    "pesoNeto": 5,
+                    "unidadMedida": "kg",
+                    "precio": 4.45,
+                    "unidadesPrecio": "€"
+                }
+            ]
+        },
+        {
+            "nombre": "Lidl",
+            "direccion": {
+                "calle": "Ctra. de la Barrosa",
+                "numero": "s/n",
+                "codigoPostal": "11130",
+                "poblacion": "Chiclana de la Frontera",
+                "provincia": "Cádiz"
+            },
+            "geolocalizacion": [
+                "36°24'3.600 N",
+                "6°9'58.748 W"
+            ],
+            "productos": [
+                {
+                    "nombre": "FranzisKaner Cerveza",
+                    "enOferta": false,
+                    "descripcionOferta": null,
+                    "periodoVigencia": null,
+                    "consumoHabitualSinOferta": false,
+                    "unidades": 2,
+                    "pesoNeto": 50,
+                    "unidadMedida": "cl",
+                    "precio": 2.98,
+                    "unidadesPrecio": "€"
+                },
+                {
+                    "nombre": "Yogur de soja sabor arándanos",
+                    "enOferta": true,
+                    "descripcionOferta": "2x1",
+                    "periodoVigencia": [
+                        "05/04/2022",
+                        "08/04/2022"
+                    ],
+                    "consumoHabitualSinOferta": false,
+                    "unidades": 2,
+                    "pesoNeto": 500,
+                    "unidadMedida": "g",
+                    "precio": 1.29,
+                    "unidadesPrecio": "€"
+                },
+                {
+                    "nombre": "Platanos",
+                    "enOferta": false,
+                    "descripcionOferta": null,
+                    "periodoVigencia": null,
+                    "consumoHabitualSinOferta": true,
+                    "unidades": 1,
+                    "pesoNeto": 1,
+                    "unidadMedida": "kg",
+                    "precio": 3.49,
+                    "unidadesPrecio": "€"
+                }
+            ]
+        },
+        {
+            "nombre": "Supersol",
+            "direccion": {
+                "calle": "C. Albatros",
+                "numero": "s/n",
+                "codigoPostal": "11130",
+                "poblacion": "Chiclana de la Frontera",
+                "provincia": "Cádiz"
+            },
+            "geolocalizacion": [
+                "36°23'46.982 N",
+                "6°10'10.726 W"
+            ],
+            "productos": [
+                {
+                    "nombre": "Ternera blanca",
+                    "enOferta": false,
+                    "descripcionOferta": null,
+                    "periodoVigencia": null,
+                    "consumoHabitualSinOferta": false,
+                    "unidades": 1,
+                    "pesoNeto": 0.750,
+                    "unidadMedida": "kg",
+                    "precio": 13.14,
+                    "unidadesPrecio": "€"
+                },
+                {
+                    "nombre": "Contramuslo de pollo",
+                    "enOferta": false,
+                    "descripcionOferta": null,
+                    "periodoVigencia": null,
+                    "consumoHabitualSinOferta": true,
+                    "unidades": 1,
+                    "pesoNeto": 450,
+                    "unidadMedida": "g",
+                    "precio": 3.35,
+                    "unidadesPrecio": "€"
+                },
+                {
+                    "nombre": "Zumo de manzana",
+                    "enOferta": true,
+                    "descripcionOferta": "2x1",
+                    "periodoVigencia": [
+                        "11/04/2022",
+                        "18/04/2022"
+                    ],
+                    "consumoHabitualSinOferta": false,
+                    "unidades": 2,
+                    "pesoNeto": 1,
+                    "unidadMedida": "l",
+                    "precio": "1.05",
+                    "unidadesPrecio": "€"
+                }
+            ]
+        }
+    ]
+}

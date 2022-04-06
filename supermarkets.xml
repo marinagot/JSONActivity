@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<supermercados>
+    <nombre>Mercadona</nombre>
+    <direccion>
+        <calle>Ctra. de la Barrosa</calle>
+        <numero>s/n</numero>
+        <codigoPostal>11130</codigoPostal>
+        <poblacion>Chiclana de la Frontera</poblacion>
+        <provincia>Cádiz</provincia>
+    </direccion>
+    <geolocalizacion>
+        <norte>36°24'01.6</norte>
+        <sur></sur>
+        <este></este>
+        <oeste>6°10'04.4</oeste>
+    </geolocalizacion>
+    <productos>
+        <nombre>Leche desnatada</nombre>
+        <enOferta>false</enOferta>
+        <descripciónOferta></descripciónOferta>
+        <periodoVigencia></periodoVigencia>
+        <consumoHabitualSinOferta>true</consumoHabitualSinOferta>
+        <unidades>2</unidades>
+        <pesoNeto>1</pesoNeto>
+        <unidadMedida>l</unidadMedida>
+        <precio>1.14</precio>
+        <unidadesPrecio>€</unidadesPrecio>
+    </productos>
+    <productos>
+        <nombre>Tortilla de patatas</nombre>
+        <enOferta>true</enOferta>
+        <descripciónOferta>Antes 2.5 €, ahora 2.15 €</descripciónOferta>
+        <periodoVigencia>
+            <inicio>01/04/2022</inicio>
+            <fin>11/04/2022</fin>
+        </periodoVigencia>
+        <consumoHabitualSinOferta>false</consumoHabitualSinOferta>
+        <unidades>1</unidades>
+        <pesoNeto>600</pesoNeto>
+        <unidadMedida>g</unidadMedida>
+        <precio>2.15</precio>
+        <unidadesPrecio>€</unidadesPrecio>
+    </productos>
+    <productos>
+        <nombre>Naranjas de zumo</nombre>
+        <enOferta>false</enOferta>
+        <descripciónOferta></descripciónOferta>
+        <periodoVigencia></periodoVigencia>
+        <consumoHabitualSinOferta>false</consumoHabitualSinOferta>
+        <unidades>1</unidades>
+        <pesoNeto>5</pesoNeto>
+        <unidadMedida>kg</unidadMedida>
+        <precio>4.45</precio>
+        <unidadesPrecio>€</unidadesPrecio>
+    </productos>    
+</supermercados>
+<supermercados>
+    <nombre>Lidl</nombre>
+    <direccion>
+        <calle>Ctra. de la Barrosa</calle>
+        <numero>s/n</numero>
+        <codigoPostal>11130</codigoPostal>
+        <poblacion>Chiclana de la Frontera</poblacion>
+        <provincia>Cádiz</provincia>
+    </direccion>
+    <geolocalizacion>
+        <norte>36°24'3.600</norte>
+        <sur></sur>
+        <este></este>
+        <oeste>6°9'58.748</oeste>
+    </geolocalizacion>
+    <productos>
+        <nombre>FranzisKaner Cerveza</nombre>
+        <enOferta>false</enOferta>
+        <descripciónOferta></descripciónOferta>
+        <periodoVigencia></periodoVigencia>
+        <consumoHabitualSinOferta>false</consumoHabitualSinOferta>
+        <unidades>2</unidades>
+        <pesoNeto>50</pesoNeto>
+        <unidadMedida>cl</unidadMedida>
+        <precio>2.98</precio>
+        <unidadesPrecio>€</unidadesPrecio>
+    </productos>
+    <productos>
+        <nombre>Yogur de soja sabor arándanos</nombre>
+        <enOferta>true</enOferta>
+        <descripciónOferta>2x1</descripciónOferta>
+        <periodoVigencia>
+            <inicio>05/04/2022</inicio>
+            <fin>08/04/2022</fin>
+        </periodoVigencia>
+        <consumoHabitualSinOferta>false</consumoHabitualSinOferta>
+        <unidades>2</unidades>
+        <pesoNeto>500</pesoNeto>
+        <unidadMedida>g</unidadMedida>
+        <precio>1.29</precio>
+        <unidadesPrecio>€</unidadesPrecio>
+    </productos>
+    <productos>
+        <nombre>Platanos</nombre>
+        <enOferta>false</enOferta>
+        <descripciónOferta></descripciónOferta>
+        <periodoVigencia></periodoVigencia>
+        <consumoHabitualSinOferta>true</consumoHabitualSinOferta>
+        <unidades>1</unidades>
+        <pesoNeto>1</pesoNeto>
+        <unidadMedida>kg</unidadMedida>
+        <precio>3.49</precio>
+        <unidadesPrecio>€</unidadesPrecio>
+    </productos>    
+</supermercados>
+<supermercados>
+    <nombre>Supersol</nombre>
+    <direccion>
+        <calle>C. Albatros</calle>
+        <numero>s/n</numero>
+        <codigoPostal>11130</codigoPostal>
+        <poblacion>Chiclana de la Frontera</poblacion>
+        <provincia>Cádiz</provincia>
+    </direccion>
+    <geolocalizacion>
+        <norte>36°23'46.982</norte>
+        <sur></sur>
+        <este></este>
+        <oeste>6°10'10.726</oeste>
+    </geolocalizacion>
+    <productos>
+        <nombre>Ternera blanca</nombre>
+        <enOferta>false</enOferta>
+        <descripciónOferta></descripciónOferta>
+        <periodoVigencia></periodoVigencia>
+        <consumoHabitualSinOferta>false</consumoHabitualSinOferta>
+        <unidades>1</unidades>
+        <pesoNeto>0.750</pesoNeto>
+        <unidadMedida>kg</unidadMedida>
+        <precio>13.14</precio>
+        <unidadesPrecio>€</unidadesPrecio>
+    </productos>
+    <productos>
+        <nombre>Contramuslo de pollo</nombre>
+        <enOferta>false</enOferta>
+        <descripciónOferta></descripciónOferta>
+        <periodoVigencia></periodoVigencia>
+        <consumoHabitualSinOferta>true</consumoHabitualSinOferta>
+        <unidades>1</unidades>
+        <pesoNeto>450</pesoNeto>
+        <unidadMedida>g</unidadMedida>
+        <precio>3.35</precio>
+        <unidadesPrecio>€</unidadesPrecio>
+    </productos>
+    <productos>
+        <nombre>Zumo de manzana</nombre>
+        <enOferta>true</enOferta>
+        <descripciónOferta>2x1</descripciónOferta>
+        <periodoVigencia>
+            <inicio>11/04/2022</inicio>
+            <fin>18/04/2022</fin>
+        </periodoVigencia>
+        <consumoHabitualSinOferta>false</consumoHabitualSinOferta>
+        <unidades>2</unidades>
+        <pesoNeto>1</pesoNeto>
+        <unidadMedida>l</unidadMedida>
+        <precio>1.05</precio>
+        <unidadesPrecio>€</unidadesPrecio>
+    </productos>    
+</supermercados>
